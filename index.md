@@ -6,6 +6,10 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+## This is a list and a \<h2> header
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ### This is a \<h3> header
 #### This is a \<h4> header
 ##### This is a \<h5> header
